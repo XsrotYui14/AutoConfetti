@@ -915,7 +915,7 @@
      
      end
      
-     local DinoWindow = Dino:CreateWindow("Hello")
+     local DinoWindow = Dino:CreateWindow("")
      local DinoPage = DinoWindow:NewPage("Main")
      local Home = DinoPage:NewSection("Blox Fruit Event")
      
